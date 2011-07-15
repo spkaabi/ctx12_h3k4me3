@@ -1,1 +1,12 @@
-Describe your project here
+these are re-sequenced versions of Ale's CTX data.  These are Ctx12 (undifferntiated), BMP4 & FBS Astro (day 3 differentiation) and with H3K4me3 ChIP or corresponding input.  The original files appeared as if samples had been mixed up and so were re-run.
+
+These are the data that came on DVDs in June 2011 from Irene at GIS.
+
+According to the GIS excel spreadsheet the codes are as follow:
+
+CMN046 is BMP4 Astro H3K4me3
+CMN047 is BMP4 Astro input
+CMN048 is FBS Astro H3K4me3
+CMN049 is FBS Astro input
+CMN050 is Ctx12 H3K4me3
+CMN051 is Ctx12 input
